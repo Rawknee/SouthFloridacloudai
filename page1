@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>South Florida Cloud & AI Solutions</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; }
+        h1 { color: #0078D4; }
+        .btn {
+            background: #0078D4;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>South Florida Cloud & AI Solutions</h1>
+<p>Cloud | Microsoft 365 | Azure | AI Automation</p>
+
+<p>Helping small businesses modernize, secure, and scale with technology.</p>
+
+<a class="btn" href="mailto:your@email.com">Get a Free Consultation</a>
+
+</body>
+</html>
